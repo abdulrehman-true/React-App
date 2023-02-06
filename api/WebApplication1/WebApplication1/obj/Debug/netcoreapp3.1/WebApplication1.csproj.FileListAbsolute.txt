@@ -1,0 +1,95 @@
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\tutorial\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tutorial\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\Adobe\ReactJS-NetCoreWebAPI-MSSQL-main(1)\ReactJS-NetCoreWebAPI-MSSQL-main\React Backend Frontend\api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
